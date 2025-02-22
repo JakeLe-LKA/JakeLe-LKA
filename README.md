@@ -7,6 +7,5 @@ The unique knowlegde combination between **business** and **data science** makes
 ## 📫 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/jake-le-ba8247319/)  
 📧 [Email](mailto:jakele.lka@gmail.com)  
-🌐 [Portfolio Website](your-website.com)
 
 
