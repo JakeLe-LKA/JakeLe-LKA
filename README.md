@@ -4,6 +4,8 @@ I am a data enthusiast with a strong foundation in **statistical analysis, predi
 
 The unique knowledge combination between **business** and **data science** makes me a **well-rounded data scientist** capable of working effectively with both **business teams** and **technical teams** or in another word, **bridging the gap between business strategy and data science**.
 
+Please find my latest projects' repositories below, feel free to read, fork, and play around with it!
+
 ## 📌 Fav Quote
 > "Without data, you're just another person with an opinion."  
 > — W. Edwards Deming  
