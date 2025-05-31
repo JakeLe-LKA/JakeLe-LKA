@@ -35,7 +35,7 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 - [Car insurance premium package optimization using Julia](https://github.com/JakeLe-LKA/Insurance-Premium-Package-Analysis)
 
 ### Deep learning & AI
-- [Handwritting recognition with CNNs using tensorflow]()
+- [Handwritting recognition with CNNs](https://github.com/JakeLe-LKA/Handwriting-Recognition)
 
 ---
 
