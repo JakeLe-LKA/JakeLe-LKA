@@ -3,8 +3,6 @@
 I’m a data enthusiast with a strong foundation in **statistical analysis**, **predictive modeling**, and **big data processing**.  
 With a unique blend of **business knowledge** and **technical expertise**, I bridge the gap between **business strategy** and **data science**, making me a well-rounded data professional.
 
-Below are some of the projects I’ve worked on — feel free to explore, fork, and interact!
-
 ---
 
 ## Tools  
@@ -18,7 +16,7 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 
 ## Projects   
 
-Explore my projects via below repos, feel free to fork and play around with them!
+Below are some of the projects I’ve worked on — feel free to explore, fork, and interact!
 
 ### Data Manipulation
 - [Data cleaning with Excel on Game store dataset](https://github.com/JakeLe-LKA/Game-Store-Analysis)
