@@ -26,7 +26,7 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 - [ABC and RFM Analysis on Coffee Sales](https://github.com/JakeLe-LKA/Game-Store-Analysis)
 - [Game store performance Analysis](https://github.com/JakeLe-LKA/Game-Store-Analysis)
 
-### Data Science & Predictive Modeling
+### Data science & Predictive modeling
 - [Bank's customers subscription prediction with Logistic Regression and Decision Tree using Python](https://github.com/JakeLe-LKA/Bank-Customer-Subscription-Prediction)
 - [Bank's customers churn prediction with Neural Network and PySpark](https://github.com/JakeLe-LKA/Customer-Churn-Prediction)
 
@@ -34,17 +34,17 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 - [Beer inventory optimization using Julia](https://github.com/JakeLe-LKA/Inventory-Optimization)
 - [Car insurance premium package optimization using Julia](https://github.com/JakeLe-LKA/Insurance-Premium-Package-Analysis)
 
-### Deep Learning & AI
+### Deep learning & AI
 - [Handwritting recognition with CNNs using tensorflow]()
 
 ---
 
-## 📌 Favorite Quote  
+## 📌 Favorite quote  
 > "Without data, you're just another person with an opinion."  
 > — W. Edwards Deming  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with me  
 💼 [LinkedIn](https://www.linkedin.com/in/jake-le-ba8247319/)  
 📧 [Email](mailto:jakele.lka@gmail.com)  
