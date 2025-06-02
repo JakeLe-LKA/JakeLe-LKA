@@ -20,7 +20,6 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 
 ### Data Manipulation
 - [Data cleaning with Excel on Game store dataset](https://github.com/JakeLe-LKA/Game-Store-Analysis)
-- [SQL Data Transformation Project]()
 
 ### Data Analysis
 - [ABC and RFM Analysis on Coffee Sales](https://github.com/JakeLe-LKA/Game-Store-Analysis)
@@ -33,6 +32,7 @@ Below are some of the projects I’ve worked on — feel free to explore, fork, 
 ### Simulation modeling
 - [Beer inventory optimization using Julia](https://github.com/JakeLe-LKA/Inventory-Optimization)
 - [Car insurance premium package optimization using Julia](https://github.com/JakeLe-LKA/Insurance-Premium-Package-Analysis)
+- [Bank loan product policy optimization using Julia](https://github.com/JakeLe-LKA/Bank-loan-product-policy-optimization/tree/main)
 
 ### Deep learning & AI
 - [Handwritting recognition with CNNs](https://github.com/JakeLe-LKA/Handwriting-Recognition)
